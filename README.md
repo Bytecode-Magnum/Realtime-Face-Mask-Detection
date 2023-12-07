@@ -3,7 +3,7 @@
 
 ## Description
 
-Object Detection API. The system utilizes transfer learning to train a pre-trained model, specifically the SSD MobileNet, for the task of localizing and classifying face masks. The detection model is trained to recognize two classes: "Mask" and "No Mask."
+Object Detection API. The system utilizes transfer learning to train a pre-trained model, specifically the SSD MobileNet, for the task of localizing and detecting face masks. The detection model is trained to recognize two classes: "Mask" and "No Mask."
 
 ## Key Features
 * Real-time face mask detection.
