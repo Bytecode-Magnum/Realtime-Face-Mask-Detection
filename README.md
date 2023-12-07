@@ -61,9 +61,7 @@ Ensure that you have TensorFlow 2.x installed before proceeding.
 3. Model Training
 * Now that you have your annotated dataset, you can proceed with training the face mask detection model. Utilize the provided code to perform transfer learning on the SSD MobileNet base model:
 
-'''
-asdasda
-'''
+  
 
 To train the model
 
