@@ -1,5 +1,5 @@
 
-# [Realtime Face Mask Detection] (https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/blob/main/RealTimeMaskDetection/RealTimeMaskDetection.ipynb)
+# [Realtime Face Mask Detection](https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/blob/main/RealTimeMaskDetection/RealTimeMaskDetection.ipynb)
 
 ## Description
 
