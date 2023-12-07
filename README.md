@@ -1,7 +1,7 @@
 
 # Realtime Face Mask Detection
 
-## Overview
+## Description
 
 Object Detection API. The system utilizes transfer learning to train a pre-trained model, specifically the SSD MobileNet, for the task of localizing and classifying face masks. The detection model is trained to recognize two classes: "Mask" and "No Mask."
 
@@ -13,10 +13,13 @@ Object Detection API. The system utilizes transfer learning to train a pre-train
 *  Two classes: "Mask" and "No Mask."
 ## Screenshots
 
+
+https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/assets/99680514/6f37c795-6a3a-496f-8537-ca7f10cdb517
+
+
 ![Screenshot 2023-12-07 214303](https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/assets/99680514/1ff27a50-8745-4ea7-bf34-55e6082b239d)
 
-
-https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/assets/99680514/f6e0fcb1-9d08-4aa9-8c4e-9ea29efe2c42
+![Screenshot 2023-12-07 214357](https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection/assets/99680514/6417bae5-03c1-4213-a8c9-2709e8c04fd3)
 
 
 
