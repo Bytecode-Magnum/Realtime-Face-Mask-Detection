@@ -1,0 +1,1 @@
+this dir will contain your test images and labels corresponding to each image(labels in xml format)
